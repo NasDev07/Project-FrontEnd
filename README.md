@@ -57,15 +57,12 @@ The documentation can be found at <http://materializecss.com>. To run the docume
 Run these commands to set up the documentation:
 
 ```bash
-git clone https://github.com/Dogfalo/materialize
+git clone https://github.com/nas-web/Project-FrontEnd.git
 cd materialize
 npm install
 ```
 
 Then run `grunt monitor` to compile the documentation. When it finishes, open a new browser window and navigate to `localhost:8000`. We use [BrowserSync](https://www.browsersync.io/) to display the documentation.
-
-### Documentation for previous releases
-Previous releases and their documentation are available for [download](https://github.com/Dogfalo/materialize/releases).
 
 ## Supported Browsers:
 Materialize is compatible with:
